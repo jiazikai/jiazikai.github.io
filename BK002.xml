@@ -1,9 +1,0 @@
-﻿<krpano>
-
-	<include url="skin/objectskin.xml" />
-
-	<image hfov="1.00" vfov="0.500000" voffset="0.00" frames="1" frame="1">
-		<flat url="BK002.tiles/%f/l%l/%0v_%0h.jpg" multires="512,256x128,512x256,1024x512,2048x1024,3840x1920,7680x3840" />
-	</image>
-
-</krpano>
